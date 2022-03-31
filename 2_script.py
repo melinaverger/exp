@@ -11,7 +11,7 @@ import zipfile
 import pandas as pd
 
 
-DATA_PATH = '/Users/melina/Documents/work/2021_Internship/Work/OLC_tracking/' \
+DATA_PATH = '~/Documents/work/2021_Internship/Work/OLC_tracking/' \
             'project/data/open_olc/anonymised_data/'
 
 files = ['assessments.csv', 'courses.csv', 'studentAssessment.csv',
